@@ -1,4 +1,4 @@
-// HART1 interface for the Reflecta Heartbeat
+// hart1 interface for the Reflecta Heartbeat
 
 module.exports = function(reflecta, interfaceStart) {
   return {
